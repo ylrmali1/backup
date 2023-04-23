@@ -1,0 +1,76 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" 
+          rel="stylesheet" 
+          integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" 
+          crossorigin="anonymous">
+    <link rel="stylesheet" href={% static 'mainapp/css/navbar.css' %}>
+    <link rel="stylesheet" href={% static 'mainapp/css/carousel.css' %}>
+    <link rel="stylesheet" href={% static 'mainapp/css/about.css' %}>
+    <link rel="stylesheet" href={% static 'mainapp/css/footer.css' %}>
+    <link rel="icon" href={% static 'mainapp/img/favicon.ico' %}  type="image/x-icon" >
+
+
+    <title>Efor Spor</title>
+</head>
+<body>
+
+    {% include 'partials/_navbar.html' %}
+
+    <div class='container-fluid' id='photo_container'>
+        {% for bgs in bg %}
+            <img class='w-100 d-block' src="{{ bgs.background_image.url }}" alt="eforlogo">
+        {% endfor %}
+    </div>
+
+    <div class='container mt-5 w-50' >
+        <h1 class='text-center' id='about_title'> BİZ KİMİZ?</h1>
+        <p class='' id='about_text'>
+            {% for  text in description %}
+                {{  text.description  }}
+            {% endfor %}
+        </p>
+    </div>
+
+    <div class='container-fluid' id='container'>
+        <div class="container-fluid w-50 justify-content-center">
+            <iframe 
+                    class='mt-3 mb-3 w-100'
+                    width="700" height="400" 
+                    src="https://www.youtube.com/embed/UG6KPkksFts" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+
+    {% include 'partials/_footer.html' %}
+    
+
+
+
+    <!-- JavaScript Bundle with Popper -->
+    <script>
+        function convertYoutube($string) {
+            return preg_replace(
+            "/\s*[a-zA-Z\/\/:\.]*youtu(be.com\/watch\?v=|.be\/)([a-zA-Z0-9\-_]+)([a-zA-Z0-9\/\*\-\_\?\&\;\%\=\.]*)/i",
+            "<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/$2\" allowfullscreen></iframe>",
+            $string
+            );
+            }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" 
+            integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" 
+            crossorigin="anonymous">
+    </script>
+</body>
+</html>

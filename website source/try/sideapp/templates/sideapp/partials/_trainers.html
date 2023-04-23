@@ -1,0 +1,39 @@
+{% load static %}
+
+    <div class="col-sm-3 mt-3 me-4" >
+        <div class="card">
+            <div class='card-header'>
+                {% if trainer.image %}
+                    <img src="{{ trainer.image.url}}" alt="" id="trainer_photo" class=' mx-auto d-block ' height='200px' width='200px'>
+                {% else %}
+                    <img src={% static 'mainapp/img/user.png' %} id ='trainer_photo' alt="trainer" class='w-100' height='200px' width='200px' >
+                {% endif %}
+            </div>
+            <div class="card-body" >
+                <div id="card-header">
+                    <h3>
+                        {{ trainer.name }}
+                    </h3>
+                </div>
+                <div class="card-text">
+                    <ul class='list' >
+                            {% if trainer.age%}
+                                <li class='list-item' id="item"> 
+                                    Yaş: {{ trainer.age }}
+                                </li>
+                            {% endif %}
+                            {% if trainer.major %}
+                                <li class='list-item' id="item">
+                                    Alan: {{ trainer.major }}
+                                </li>
+                            {% endif %}
+                            {% if trainer.number %}
+                                <li class='list-item' id="item">
+                                    Numara: {{ trainer.number }}
+                                </li>
+                            {% endif %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>

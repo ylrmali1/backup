@@ -1,0 +1,22 @@
+body{
+    margin-top: 60px;
+    background-color: black;
+}
+
+#container{
+    display: grid;
+    gap: 0;
+}
+
+.col-md-6,.col-md-3{
+    padding: 0;
+}
+
+.galleryPhotos{
+    width: 100%;
+    filter: brightness(50%);
+}
+
+.galleryPhotos:hover{
+    filter: brightness(100%);
+}

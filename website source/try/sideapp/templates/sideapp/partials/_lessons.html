@@ -1,0 +1,12 @@
+{% load static %}
+
+<div class='col-md-3 mb-1 me-1'>
+    <div id='card'>
+        <img id='lessons_img' class='w-100' src="{{ lesson.image.url }}" alt="">
+        <h6 id='lessons_title'>{{ lesson.title }}</h6>
+    </div>
+    <div id='description'>
+        <h6 id='title_body'>{{ lesson.title }}</h6>
+        <p>{{ lesson.description }}</p>
+    </div>
+</div>

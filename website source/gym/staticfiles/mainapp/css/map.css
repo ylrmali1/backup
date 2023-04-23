@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
+
+#map{
+    background-color: rgb(255, 111, 0)!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.map{
+    justify-content: center!important;
+}
+
+h3{
+    margin-top: 1em;
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 40px!important;
+    color: rgb(255, 111, 0)!important;
+}
+
+h2 a{
+    margin-top: 1em;
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 30px;
+    color: black!important;
+    vertical-align:middle;
+    text-decoration: none;  
+    
+}:hover{
+    color: rgb(255, 111, 0)!important;
+    
+}
+
+#info{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+@media screen and (min-width: 1200px) {
+.zoom:hover{
+
+    transform: scale3d(1.2,1.2,1.2);
+}
+}
+
+@media screen and (max-width: 1181px){
+
+
+h2 a{
+    font-size: 18px!important;
+}
+
+#info{
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+} 
+}
+
+@media screen and (max-width: 760px) {
+
+h2 a{
+    font-size: 25px!important;
+}
+
+}
+
+.w-50{
+    width: 70!important;
+}
+
+
+
+

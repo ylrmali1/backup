@@ -1,0 +1,93 @@
+#lessons_photo{
+    padding: 0;
+}
+
+#lessons_img{
+    max-height: 270px;
+}
+
+#lessons_header{
+    text-align: center;
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 40px!important;
+    color: rgb(255, 111, 0);
+    
+}
+
+#lessons_title{
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 26px;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background:linear-gradient(rgb(255, 111, 0,0.9),rgb(250, 45, 9));
+}
+
+.col-md-3{
+    position: relative;
+}
+
+#description{
+    position: absolute;
+    opacity: 0;
+    z-index: 1;
+    top: 0;
+    left: 10px;
+    right: 10px;
+    bottom: 5px;
+    color: white;
+    background: linear-gradient(rgb(255, 111, 0,0.6),rgb(250, 45, 9));
+}:hover{
+    opacity: 1!important;
+}
+
+#title_body{
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+    
+}
+
+#description p{
+    padding-bottom: 5px;
+    text-align: center;
+    overflow: hidden!important;
+}
+
+
+@media screen and (min-width: 768px) {
+    #description p{
+        font-size: 13px;   
+        padding-left: 5px;
+        padding-right: 5px;  
+        padding-bottom: 5px;   
+    }
+    
+
+    #title_body{
+        font-size: medium;
+    }
+    
+}
+
+
+@media screen and (min-width: 100px) {
+    #description p{
+        font-size: 17px;   
+        padding-left: 5px;
+        padding-right: 5px;  
+        padding-bottom: 5px;   
+    }
+    
+
+    #title_body{
+        font-size: 20px;
+    }
+    
+}
+
+
+
+

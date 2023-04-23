@@ -1,0 +1,31 @@
+{% load static %}
+<!-- Mobile Menu  -->
+<div class="mobile-menu">
+    <div class="menu-backdrop"></div>
+    <div class="close-btn"><i class="fas fa-times"></i></div>
+
+    <nav class="menu-box">
+        <div class="nav-logo">
+            <a href="{% url 'main:index' %}">
+                <span class="row align-items-center gap-3">
+                    <img class="brand" src="{% static 'main/assets/images/brand.png' %}" alt="" title="">
+                    <span class="brand-text" style="color: white">tars<span style="color: #ff009c">i</span>er</span>
+                </span>
+            </a>
+        </div>
+        <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+        <div class="contact-info">
+            <h4>Contact Info</h4>
+            <ul>
+                <li>Çamlaraltı Mah. Hüseyin Yılmaz Cd.No:67 B Blok G07 Pamukkale/DENİZLİ</li>
+                <li><a href="mailto:info@tarsierteknoloji.com">info@tarsierteknoloji.com</a></li>
+            </ul>
+        </div>
+        <div class="social-links">
+            <ul class="clearfix">
+                <li><a href="//www.linkedin.com/company/tarsier-technology/"><span class="fab fa-linkedin"></span></a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
+<!-- End Mobile Menu -->

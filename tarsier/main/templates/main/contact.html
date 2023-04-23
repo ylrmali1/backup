@@ -1,0 +1,178 @@
+﻿{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<title>Bithlo - HTML 5 Template Preview</title>
+
+<!-- Fav Icon -->
+<link rel="icon" href="assets/images/favicon-3.ico" type="image/x-icon">
+
+<!-- Google Fonts -->
+<link href="../css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+<!-- Stylesheets -->
+<link href="{% static 'main/assets/css/font-awesome-all.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/flaticon.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/owl.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/bootstrap.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/jquery.fancybox.min.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/animate.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/color.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/style.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/responsive.css' %}" rel="stylesheet">
+
+</head>
+
+
+<!-- page wrapper -->
+<body>
+
+    <div class="boxed_wrapper">
+
+        <!-- pre loader -->
+        {% include 'main/partials/_pre-loader.html' %}
+        <!-- end pre loader -->
+
+        <!-- main header -->
+        {% include 'main/partials/_main-navbar.html' %}
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        {% include 'main/partials/_mobile-menu.html' %}
+        <!-- End Mobile Menu -->
+
+
+
+        <!-- Page Title -->
+        <section class="page-title centred">
+            <div class="pattern-layer" style="background-image: url({% static 'main/assets/images/shape/shape-87.png' %});"></div>
+            <div class="auto-container">
+                <div class="content-box">
+                    <h1>Contact Us</h1>
+                    <ul class="bread-crumb clearfix">
+                        <li><a href="{% url 'main:index' %}">Home</a></li>
+                        <li>Contact Now</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- End Page Title -->
+
+
+        <!-- contact-style-two -->
+        <section class="contact-style-two sec-pad centred">
+            <div class="pattern-layer" style="background-image: url({% static 'main/assets/images/shape/shape-68.png' %});"></div>
+            <div class="auto-container">
+                <div class="sec-title style-two">
+                    <h5>SEND MESSAGE</h5>
+                    <h2>We’d love to hear from you <br>for your massage</h2>
+                    <div class="divider" style="background-image: url({% static 'main/assets/images/icons/divider-1.png' %});"></div>
+                </div>
+                <div class="row clearfix">
+                    <div class="col-lg-10 col-md-12 col-sm-12 offset-lg-1 inner-column">
+                        <div class="form-inner">
+                            <form method="post" action="sendemail.php" id="contact-form" class="default-form"> 
+                                <div class="row clearfix">
+                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                        <i class="far fa-user"></i>
+                                        <input type="text" name="username" placeholder="Your Name" required="">
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                        <i class="far fa-envelope"></i>
+                                        <input type="email" name="email" placeholder="Email Address" required="">
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                        <i class="fas fa-phone"></i>
+                                        <input type="text" name="phone" required="" placeholder="Phone">
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                        <i class="far fa-user"></i>
+                                        <input type="text" name="subject" required="" placeholder="Subject">
+                                    </div>
+                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                        <textarea name="message" placeholder="Massage"></textarea>
+                                    </div>
+                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
+                                        <button class="theme-btn btn-seven" type="submit" name="submit-form">Send Massage</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- contact-style-two end -->
+
+
+        <!-- contact-info-two -->
+        <section class="contact-info-two">
+            <div class="auto-container" style="max-width: 1200px;">
+                <div class="row align-items-center clearfix">
+                    <div class="col-lg-5 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_21">
+                            <div class="content-box">
+                                <h2>Contact information</h2>
+                                <div class="single-item">
+                                    <div class="icon-box"><i class="far fa-envelope"></i></div>
+                                    <h3>Send a Mail</h3>
+                                    <span>DONT’S HESITATE TO MAIL</span>
+                                    <p>
+                                        <a href="mailto:info@tarsierteknoloji.com">info@tarsierteknoloji.com</a>
+                                    </p>
+                                </div>
+                                <div class="single-item">
+                                    <div class="icon-box"><i class="far fa-paper-plane"></i></div>
+                                    <h3>Location</h3>
+                                    <span>VISIT TO EXPLORE THE WORLD</span>
+                                    <p>Çamlaraltı Mah. Hüseyin Yılmaz Cd.No:67 B Blok G07 Pamukkale/DENİZLİ</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7 col-md-12 col-sm-12 map-column">
+                        <div class="map-inner">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3155.1968906276893!2d29.092603600000004!3d37.7385249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c73ed800c66a23%3A0x8857d5ed7aac82a0!2s%C3%87amlaralt%C4%B1%2C%20H%C3%BCseyin%20Y%C4%B1lmaz%20Cd.%20No%3A67%20D%3ABlok%20G07%2C%2020160%20Merkezefendi%2FDenizli!5e0!3m2!1sen!2str!4v1680738136768!5m2!1sen!2str" width="600" height="450"
+                                        style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                                </iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- contact-info-two end -->
+
+
+
+
+        <!-- main-footer -->
+        {% include 'main/partials/_footer.html' %}
+        <!-- main-footer end -->
+
+        
+    </div>
+
+<!-- jequery plugins -->
+    <script src="{% static 'main/assets/js/jquery.js' %}"></script>
+    <script src="{% static 'main/assets/js/popper.min.js' %}"></script>
+    <script src="{% static 'main/assets/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'main/assets/js/owl.js' %}"></script>
+    <script src="{% static 'main/assets/js/wow.js' %}"></script>
+    <script src="{% static 'main/assets/js/validation.js' %}"></script>
+    <script src="{% static 'main/assets/js/jquery.fancybox.js' %}"></script>
+    <script src="{% static 'main/assets/js/appear.js' %}"></script>
+    <script src="{% static 'main/assets/js/scrollbar.js' %}"></script>
+    <script src="{% static 'main/assets/js/tilt.jquery.js' %}"></script>
+    <script src="{% static 'main/assets/js/isotope.js' %}"></script>
+    <script src="{% static 'main/assets/js/bxslider.js' %}"></script>
+
+    <!-- main-js -->
+    <script src="{% static 'main/assets/js/script.js' %}"></script>
+
+</body><!-- End of .page_wrapper -->
+</html>

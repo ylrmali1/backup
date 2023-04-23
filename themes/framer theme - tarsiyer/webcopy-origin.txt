@@ -1,0 +1,432 @@
+Uri: https://fonts.googleapis.com/css?family=Archivo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.1.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT0zRZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT6jRZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTT6jRZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTajNZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTajNZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTBjNZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTBjNZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDJZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDJZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDNZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDNZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTnTRZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTnTRZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDNZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDNZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDRZ9xds.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTtDRZ9xds.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABsydrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABsydrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABtCdrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HABtCdrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HAotCdrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HAotCdrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBftCdrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBftCdrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBmtCdrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HBmtCdrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsidrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsidrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsydrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCBsydrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCzsydrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HCzsydrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivo/v18/k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HDfsydrD0o.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\s\archivo\v18\k3k8o8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYIRyOSVz60_PG_HDfsydrD0o.ttf
+Content Type: font/ttf
+
+Uri: https://framer.uicore.co/web-app/
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\index.htm
+Content Type: text/html
+
+Uri: https://framer.uicore.co/web-app/comments/feed/
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://framer.uicore.co/web-app/feed/
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\bdthemes-element-pack\assets\css\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/bdthemes-element-pack/assets/css/ep-advanced-icon-box.css?ver=6.0.11
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\bdthemes-element-pack\assets\css\ep-advanced-icon-box.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/bdthemes-element-pack/assets/css/ep-helper.css?ver=6.0.11
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\bdthemes-element-pack\assets\css\ep-helper.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/bdthemes-element-pack/assets/css/ep-lightbox.css?ver=6.0.11
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\bdthemes-element-pack\assets\css\ep-lightbox.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/bdthemes-element-pack/assets/images/loading.svg
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\bdthemes-element-pack\assets\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\bdthemes-element-pack\assets\js\bdt-uikit.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/bdthemes-element-pack/assets/js/common/helper.min.js?ver=6.0.11
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\bdthemes-element-pack\assets\js\common\helper.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/bdthemes-element-pack/assets/js/modules/ep-advanced-icon-box.min.js?ver=6.0.11
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\bdthemes-element-pack\assets\js\modules\ep-advanced-icon-box.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.8.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.8.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.8.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.18.0
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.18.0
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.18.0
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.18.0
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.18.0
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://framer.uicore.co/web-app/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://framer.uicore.co/web-app/wp-content/themes/level-wp/assets/skin/level/fonts/uicore-icons.svg?d6fuaj
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\themes\level-wp\assets\skin\level\fonts\uicore-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://framer.uicore.co/web-app/wp-content/themes/level-wp/assets/skin/level/fonts/uicore-icons.ttf?d6fuaj
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\themes\level-wp\assets\skin\level\fonts\uicore-icons.ttf
+Content Type: font/ttf
+
+Uri: https://framer.uicore.co/web-app/wp-content/themes/level-wp/assets/skin/level/fonts/uicore-icons.woff?d6fuaj
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\themes\level-wp\assets\skin\level\fonts\uicore-icons.woff
+Content Type: font/woff
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Framer-favicon.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Framer-favicon.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Framer-logo-300x62.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Framer-logo-300x62.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Framer-logo.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Framer-logo.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Hero-Image-1024x727.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Hero-Image-1024x727.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Hero-Image-1536x1091.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Hero-Image-1536x1091.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Hero-Image-2.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Hero-Image-2.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Hero-Image-300x213.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Hero-Image-300x213.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Hero-Image-650x461.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Hero-Image-650x461.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Hero-Image-768x545.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Hero-Image-768x545.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Hero-Image.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Hero-Image.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Illustration-1-300x250.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Illustration-1-300x250.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Illustration-1-650x543.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Illustration-1-650x543.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Illustration-1-768x641.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Illustration-1-768x641.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Illustration-1.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Illustration-1.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Illustration-2-300x250.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Illustration-2-300x250.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Illustration-2-650x543.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Illustration-2-650x543.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Illustration-2-768x641.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Illustration-2-768x641.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Illustration-2.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Illustration-2.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Integrated-1.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Integrated-1.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Integrated-2.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Integrated-2.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Integrated-3.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Integrated-3.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Integrated-4.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Integrated-4.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Integrated-5.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Integrated-5.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Integrated-6.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Integrated-6.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-1-300x72.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-1-300x72.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-1.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-1.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-2-300x66.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-2-300x66.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-2.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-2.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-3-300x63.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-3-300x63.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-3.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-3.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-4.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-4.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-5-300x43.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-5-300x43.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-5.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-5.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-6.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-6.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-7-300x76.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-7-300x76.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-logo-7.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-logo-7.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Testimonial-1.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Testimonial-1.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Testimonial-2.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Testimonial-2.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Testimonial-3.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Testimonial-3.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Testimonial-4.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Testimonial-4.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Testimonial-5.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Testimonial-5.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/2022/04/Web-App-Testimonial-6.webp
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\2022\04\Web-App-Testimonial-6.webp
+Content Type: image/webp
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/elementor/css/post-12.css?ver=1668708098
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/elementor/css/post-37.css?ver=1668592269
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\elementor\css\post-37.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/uicore-global.css?ver=3615
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\uicore-global.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-content/uploads/sites/7/uicore-global.js?ver=3615
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-content\uploads\sites\7\uicore-global.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://framer.uicore.co/web-app/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://framer.uicore.co/web-app/wp-json/
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://framer.uicore.co/web-app/wp-json/oembed/1.0/embed?url=https:%2F%2Fframer.uicore.co%2Fweb-app%2F
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://framer.uicore.co/web-app/wp-json/oembed/1.0/embed?url=https:%2F%2Fframer.uicore.co%2Fweb-app%2F&format=xml
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://framer.uicore.co/web-app/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\framer.uicore.co\web-app\wp-json\wp\v2\pages\12
+Content Type: application/json
+

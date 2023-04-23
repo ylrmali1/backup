@@ -1,0 +1,35 @@
+#container{
+    background-color: rgb(255, 111, 0);
+    margin-top: 100px;
+}
+
+#photo_container{
+    padding: 0;
+}
+
+#about_title{
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 40px;
+    color: rgb(255, 111, 0);
+}
+
+#about_text{
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 20px;
+    text-indent: 50px;
+
+}
+
+.about_video{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+@media screen and (max-width: 992px){
+    .w-50{
+        width: 100%!important;
+    }
+}

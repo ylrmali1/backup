@@ -1,0 +1,158 @@
+﻿{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<title>Bithlo - HTML 5 Template Preview</title>
+
+<!-- Fav Icon -->
+<link rel="icon" href="assets/images/favicon-3.ico" type="image/x-icon">
+
+<!-- Google Fonts -->
+<link href="../css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+<!-- Stylesheets -->
+<link href="{% static 'main/assets/css/font-awesome-all.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/flaticon.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/owl.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/bootstrap.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/jquery.fancybox.min.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/animate.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/color.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/style.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/responsive.css' %}" rel="stylesheet">
+
+</head>
+
+
+<!-- page wrapper -->
+<body>
+
+    <div class="boxed_wrapper">
+
+        <!-- preloader -->
+            {% include 'main/partials/_pre-loader.html' %}
+        <!-- preloader end -->
+
+        <!-- main header -->
+            {% include 'main/partials/_main-navbar.html' %}
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+            {% include 'main/partials/_mobile-menu.html' %}
+        <!-- End Mobile Menu -->
+
+
+        <!-- Page Title -->
+        <section class="page-title centred">
+            <div class="pattern-layer" style="background-image: url({% static 'main/assets/images/shape/shape-87.png' %});"></div>
+            <div class="auto-container" style="max-width: 1200px">
+                <div class="content-box">
+                    <figure class="icon-box"><img src="{% static 'main/assets/images/icons/icon-18.png' %}" alt=""></figure>
+                    <h2>{{ product.product_name }} Details</h2>
+                </div>
+            </div>
+        </section>
+        <!-- End Page Title -->
+
+
+        <!-- project-details -->
+        <section class="project-details">
+            <div class="auto-container" style="max-width: 1200px">
+                <div class="row clearfix">
+                    <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
+                        <div class="project-sidebar">
+                            <div class="project-info">
+                                <div class="single-item">
+                                    <div class="icon-box"><i class="fal fa-dot-circle"></i></div>
+                                    <h5>TECHNOLOGIES</h5>
+                                    <p>Python, Tenserflow, OpenCv, Artifical Intelligent</p>
+                                </div>
+                                <div class="single-item">
+                                    <div class="icon-box"><i class="fas fa-globe"></i></div>
+                                    <h5>WEBSITE</h5>
+                                    <p><a href="product-details.html">info@frazl.com</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-12 col-sm-12 content-side">
+                        <div class="project-details-content">
+                            <div class="content-one">
+                                <div class="text">
+                                    <h2>Information About {{ product.product_name }}</h2>
+                                    <p>
+                                        {{ product.product_description }}
+                                    </p>
+                                </div>
+                                <figure class="image-box">
+                                    <img src="{% static 'main/assets/images/gallery/project-14.jpg' %}" alt="">
+                                </figure>
+                            </div>
+                            <div class="two-column">
+                                <div class="row clearfix">
+                                    <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                        <div class="single-item">
+                                            <h3>CHALLENGES</h3>
+                                            <span>staticase way to know</span>
+                                            <p>Idea of denouncing pleasure and praising pain was born and give you a complete account of the system.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                        <div class="single-item">
+                                            <h3>SOLUTIONS</h3>
+                                            <span>staticase way to know</span>
+                                            <p>Undertakes laborious physical exercise, except to obtain some from it man who chooses to enjoy.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="content-two">
+                                <div class="inner-box">
+                                    <figure class="image-box"><img src="{% static 'main/assets/images/gallery/project-7.png' %}" alt=""></figure>
+                                    <div class="text">
+                                        <h3>Processing System</h3>
+                                        <p>Must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born will give you a complete account of the system pain can procure.</p>
+                                        <p>There anyone who loves or pursues or desires to obtain pain of itself, because it pain but because occasionally circumstances occurs in which toil and pain procures him some great pleasure take a trivial example physical exercise.</p>
+                                    </div>
+                                </div>
+                                <div class="text">
+                                    <h3>Results</h3>
+                                    <p>Any right to find fault with a man who chooses to enjoy a pleasure that has annoying consequences, or one who avoids a pain that produces no resultant encounter.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- project-details end -->
+
+        <!-- main-footer -->
+        {% include 'main/partials/_footer.html' %}
+        <!-- main-footer end -->
+    </div>
+
+
+   <!-- jequery plugins -->
+    <script src="{% static 'main/assets/js/jquery.js' %}"></script>
+    <script src="{% static 'main/assets/js/popper.min.js' %}"></script>
+    <script src="{% static 'main/assets/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'main/assets/js/owl.js' %}"></script>
+    <script src="{% static 'main/assets/js/wow.js' %}"></script>
+    <script src="{% static 'main/assets/js/validation.js' %}"></script>
+    <script src="{% static 'main/assets/js/jquery.fancybox.js' %}"></script>
+    <script src="{% static 'main/assets/js/appear.js' %}"></script>
+    <script src="{% static 'main/assets/js/scrollbar.js' %}"></script>
+    <script src="{% static 'main/assets/js/tilt.jquery.js' %}"></script>
+    <script src="{% static 'main/assets/js/isotope.js' %}"></script>
+    <script src="{% static 'main/assets/js/bxslider.js' %}"></script>
+
+    <!-- main-js -->
+    <script src="{% static 'main/assets/js/script.js' %}"></script>
+
+</body><!-- End of .page_wrapper -->
+</html>

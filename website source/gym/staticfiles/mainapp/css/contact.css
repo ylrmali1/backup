@@ -1,0 +1,65 @@
+#contact_photo{
+    padding: 0;
+
+}
+
+#contact_title{
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 40px;
+    color: rgb(255, 111, 0);
+}
+
+#contact_text{
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 22px;
+    text-indent: 50px;
+}
+
+#contact-container{
+    background-color: rgb(255, 111, 0);
+}
+
+#contact-inner-container{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: start;
+}
+
+#contacts{
+    font-family: 'Saira Condensed',sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+#contacts:hover{
+    color: black;
+}
+
+#contacts-link{
+    text-decoration: none;
+}
+
+#logos{
+    margin-right: auto;
+    text-align: end;
+
+}
+
+#row{
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width:992px) {
+    .col-md-9{
+        width: 50%;
+    }
+    .col-md-3{
+        width: 50%;
+    }
+    .w-50{
+        width: 100%!important;
+    }
+    
+}
+

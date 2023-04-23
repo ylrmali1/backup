@@ -1,0 +1,196 @@
+Uri: http://inebur.com/antler/template/assets/casestudy/casestudy-everthgroup.pdf
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\casestudy\casestudy-everthgroup.pdf
+Content Type: application/pdf
+
+Uri: http://inebur.com/antler/template/assets/casestudy/casestudy-growtop.pdf
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\casestudy\casestudy-growtop.pdf
+Content Type: application/pdf
+
+Uri: http://inebur.com/antler/template/assets/css/animate.min.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/css/aos.min.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\aos.min.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/css/bootstrap.min.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/css/custom.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\custom.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/css/flickity.min.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\flickity.min.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/css/rtl/bootstrap-rtl.min.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\rtl\bootstrap-rtl.min.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/css/rtl/style-rtl.min.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\rtl\style-rtl.min.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/css/style.min.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\style.min.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/css/swiper.min.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/fonts/cloudicon/cloudicon.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\cloudicon\cloudicon.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/fonts/evafeat/evafeat.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\evafeat\evafeat.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/fonts/fontawesome/css/all.css
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\fontawesome\css\all.css
+Content Type: text/css
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/book.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\book.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/cloudfiber.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\cloudfiber.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/cloudmanaged.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\cloudmanaged.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/dedicated.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\dedicated.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/emailopen.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\emailopen.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/helpdesk.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\helpdesk.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/livechat.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\livechat.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/vps.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\vps.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/fonts/svg/window.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\fonts\svg\window.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/img/casestudy-rtl.png
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\img\casestudy-rtl.png
+Content Type: image/png
+
+Uri: http://inebur.com/antler/template/assets/img/casestudy.png
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\img\casestudy.png
+Content Type: image/png
+
+Uri: http://inebur.com/antler/template/assets/img/favicon.ico
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://inebur.com/antler/template/assets/js/aos.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\aos.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/bootstrap.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/flickity-fade.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\flickity-fade.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/flickity.pkgd.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/isotope.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\isotope.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/jquery.countdown.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\jquery.countdown.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/jquery.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/jquery.scrollme.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\jquery.scrollme.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/lazysizes.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/popper.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/scripts.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/settings-init.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\settings-init.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/slick.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/swiper.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/typed.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\typed.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/js/wow.min.js
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://inebur.com/antler/template/assets/patterns/balancing-rtl.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\patterns\balancing-rtl.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/patterns/balancing.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\patterns\balancing.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/patterns/cloud3d.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\patterns\cloud3d.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/patterns/dedicatedserver3d.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\patterns\dedicatedserver3d.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/assets/patterns/map.svg
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\assets\patterns\map.svg
+Content Type: image/svg+xml
+
+Uri: http://inebur.com/antler/template/home3d
+File Name: C:\Users\ali.yildirim\OneDrive\Masaüstü\yeni\inebur.com\antler\template\home3d.html
+Content Type: text/html
+

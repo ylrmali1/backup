@@ -1,0 +1,72 @@
+{% load static %}
+<!-- main header -->
+<header class="main-header header-style-three">
+    <!-- header-lower -->
+    <div class="header-lower">
+        <div class="auto-container">
+            <div class="outer-box clearfix">
+                <!-- banner -->
+                <div class="logo-box pull-left">
+                    <figure class="logo">
+                        <a href="{% url 'main:index' %}">
+                            <span class="row align-items-center">
+                                <img class="brand" src="{% static 'main/assets/images/brand.png' %}" alt="">
+                                <span class="brand-text" style="color: white">tars<span style="color: #ff009c">i</span>er</span>
+                            </span>
+
+                        </a>
+                    </figure>
+                </div>
+                <!-- end banner -->
+                <div class="menu-area pull-right clearfix">
+                    <!--Mobile Navigation Toggler-->
+                    <div class="mobile-nav-toggler">
+                        <i class="icon-bar"></i>
+                        <i class="icon-bar"></i>
+                        <i class="icon-bar"></i>
+                    </div>
+                    <nav class="main-menu navbar-expand-md navbar-light">
+                        <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+                            <ul class="navigation clearfix">
+                                <li class="current">
+                                    <a href="{% url 'main:index' %}">Home</a>
+                                </li>
+                                <li class="nav-link">
+                                    <a href="{% url 'main:product' %}">Product</a>
+                                </li>
+                                <li class="nav-link">
+                                    <a href="{% url 'main:blog' %}">Blog</a>
+                                </li>
+                                <li class="nav-link">
+                                    <a href="{% url 'main:contact' %}">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--sticky Header-->
+    <div class="sticky-header">
+        <div class="auto-container">
+            <div class="outer-box clearfix">
+                <figure class="sticky-logo pull-left">
+                    <a href="{% url 'main:index' %}">
+                        <span class="row align-items-center gap-3">
+                            <img class="brand" src="{% static 'main/assets/images/brand.png' %}" alt="">
+                            <span class="brand-text">tars<span style="color: #ff009c">i</span>er</span>
+                        </span>
+                    </a>
+                </figure>
+                <div class="menu-area pull-right clearfix">
+                    <nav class="main-menu clearfix">
+                        <!--Keep This Empty / Menu will come through Javascript-->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- main-header end -->

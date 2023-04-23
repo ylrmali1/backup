@@ -1,0 +1,251 @@
+﻿{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<title>Tarsier</title>
+
+<!-- Fav Icon -->
+<link rel="icon" href="{% static 'main/assets/images/favicon-2.ico' %}" type="image/x-icon">
+
+<!-- Google Fonts -->
+<link href="../css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+<!-- Stylesheets -->
+<link href="{% static 'main/assets/css/font-awesome-all.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/flaticon.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/owl.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/bootstrap.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/jquery.fancybox.min.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/animate.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/color.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/style.css' %}" rel="stylesheet">
+<link href="{% static 'main/assets/css/responsive.css' %}" rel="stylesheet">
+<link rel='stylesheet' href='//cdn-uicons.flaticon.com/uicons-thin-rounded/css/uicons-thin-rounded.css'>
+
+</head>
+
+
+<!-- page wrapper -->
+<body>
+
+    <div class="boxed_wrapper">
+        <!-- preloader -->
+        {% include 'main/partials/_pre-loader.html' %}
+        <!-- preloader end -->
+
+        <!-- main header -->
+        {% include 'main/partials/_main-navbar.html' %}
+        <!-- main-header end -->
+
+        <!-- Mobile Menu  -->
+        {% include 'main/partials/_mobile-menu.html' %}
+        <!-- End Mobile Menu -->
+
+
+        <!-- banner-section -->
+        <section class="banner-style-three" style="background-image: url({% static 'main/assets/images/banner/banner-bg-1-edit.png' %});">
+            <div class="pattern-layer" style="background-image: url({% static 'main/assets/images/shape/shape-17.png' %});"></div>
+            <div class="auto-container" style="max-width: 1200px">
+                <div class="content-box">
+                    <h2>The Art of Fabric Quality Control</h2>
+                    <p>
+                        Superior Products with AI-Powered Fabric Quality Control
+                    </p>
+                    <div class="btn-box">
+                        <a href="{% url 'main:product' %}" class="theme-btn btn-six">Learn More</a>
+                        <a href="{% url 'main:contact' %}" class="theme-btn btn-seven">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+            <ul class="social-links clearfix">
+                <li><a href="//www.linkedin.com/company/tarsier-technology/"><i class="fab fa-linkedin"></i></a></li>
+            </ul>
+        </section>
+        <!-- banner-section end -->
+
+
+        <!-- service-style-three -->
+        <section class="service-style-three"> 
+            <div class="auto-container" style="max-width: 1200px">
+                <div class="row clearfix">
+                    <div class="col-lg-5 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_6">
+                            <div class="content-box wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                <div class="sec-title style-two">
+                                    <h2>Why Choose Tarsier?</h2>
+                                    <div class="divider" style="background-image: url({% static 'main/assets/images/icons/divider-1.png' %});"></div>
+                                </div>
+                                <div class="text">
+                                    <p>More efficient production and accurate results through the joint use of
+                                        image processing and artificial intelligence.</p>
+                                </div>
+                                <ul class="list-item clearfix">
+                                    <li>Revolutionizing your Customer Experience with Cutting-Edge and Enhanced Solutions</li>
+                                    <li>Boost your productivity and cut costs with accelerated production processes</li>
+                                    <li>Optimize your production line and achieve higher efficiency through the
+                                        capabilities of data analysis and prediction.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7 col-md-12 col-sm-12 inner-column">
+                        <div class="inner-content mr-100">
+                            <div class="row clearfix">
+                                <div class="col-lg-6 col-md-6 col-sm-12 service-block">
+                                    <div class="service-block-three wow fadeInLeft animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                        <div class="inner-box">
+                                            <figure class="light-icon"><img src="{% static 'main/assets/images/icons/icon-8.png' %}" alt=""></figure>
+                                            <div class="icon-box"><i class="fi fi-tr-tachometer-alt-fastest"></i></div>
+                                            <h3><a href="">Speed</a></h3>
+                                            <p>AI can process large amounts of image data at a faster rate than humans can.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 service-block">
+                                    <div class="service-block-three wow fadeInRight animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                        <div class="inner-box">
+                                            <figure class="light-icon"><img src="{% static 'main/assets/images/icons/icon-8.png' %}" alt=""></figure>
+                                            <div class="icon-box"><i class="fi fi-tr-bullseye-arrow"></i></div>
+                                            <h3><a href="">Accuracy</a></h3>
+                                            <p>AI can detect patterns and anomalies in images that may not be visible
+                                                to the human eye, leading to more accurate results.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="inner-content ml-100">
+                            <div class="row clearfix">
+                                <div class="col-lg-6 col-md-6 col-sm-12 service-block">
+                                    <div class="service-block-three wow fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                                        <div class="inner-box">
+                                            <figure class="light-icon"><img src="{% static 'main/assets/images/icons/icon-8.png' %}" alt=""></figure>
+                                            <div class="icon-box"><i class="fi fi-tr-diagram-project"></i></div>
+                                            <h3><a href="">Consistency</a></h3>
+                                            <p>AI can perform the same task over and over again without getting tired
+                                                or making mistakes, ensuring consistency in the image processing results.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 service-block">
+                                    <div class="service-block-three wow fadeInRight animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                                        <div class="inner-box">
+                                            <figure class="light-icon"><img src="{% static 'main/assets/images/icons/icon-8.png' %}" alt=""></figure>
+                                            <div class="icon-box"><i class="fi fi-tr-brain-circuit"></i></div>
+                                            <h3><a href="">Automation</a></h3>
+                                            <p>AI can automate repetitive image processing tasks,
+                                                saving time and increasing efficiency.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- service-style-three end -->
+
+
+        <!-- about-style-three -->
+        <section class="about-style-three">
+            <div class="auto-container">
+                <div class="row align-items-center clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box">
+                            <video class="video" autoplay loop muted>
+                                <source src="{% static 'main/assets/videos/video.mp4' %}" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_7">
+                            <div class="content-box">
+                                <div class="sec-title style-two">
+                                    <h5>ABOUT COMPANY</h5>
+                                    <h2>Mission is to bring force of simulated intelligence to business</h2>
+                                    <div class="divider"
+                                         style="background-image: url({% static 'main/assets/images/icons/divider-1.png' %});">
+                                    </div>
+                                </div>
+                                <div class="text">
+                                    <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it but right to find fault with a man who chooses enjoy.for your business work.</p>
+                                    <p>Which of us ever undertakes laborious physical exercise, <br>except to obtain advantage from it who do not know how to <br>pursue pleasure.</p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="service.html" class="theme-btn btn-eight">More About</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- about-style-three end -->
+
+        <!-- news-style-two -->
+        <section class="news-style-two">
+            <div class="pattern-layer" style="background-image: url({% static 'main/assets/images/shape/shape-20.png' %});"></div>
+            <div class="auto-container" style="max-width: 1200px">
+                <div class="sec-title style-two centred">
+                    <h5>NEWS & UPDATES</h5>
+                    <h2>Latest thinking technology and <br>our company news</h2>
+                    <div class="divider" style="background-image: url({% static 'main/assets/images/icons/divider-1.png' %});"></div>
+                </div>
+                <div class="row clearfix">
+                    {% for blog in blogs %}
+                        <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+
+                        <div class="news-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <figure class="image-box">
+                                    <img src="{{ blog.blog_image.url }}" alt="">
+                                    <a href="{% url 'main:blog_detail' blog.id %}"><i class="fas fa-link"></i></a>
+                                    <span class="post-date">{{ blog.created_time }}</span>
+                                </figure>
+                                <div class="lower-content">
+                                    <div class="category"><i class="far fa-folder-open"></i><a>Technology News</a></div>
+                                    <h3><a href="{% url 'main:blog_detail' blog.id %}">{{ blog.blog_name }}</a></h3>
+                                    <div class="link"><a href="{% url 'main:blog_detail' blog.id %}">Read More +</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+
+                </div>
+            </div>
+        </section>
+        <!-- news-style-two end -->
+
+        <!-- main-footer -->
+            {% include 'main/partials/_footer.html' %}
+        <!-- main-footer end -->
+
+        
+    </div>
+
+
+    <!-- jequery plugins -->
+    <script src="{% static 'main/assets/js/jquery.js' %}"></script>
+    <script src="{% static 'main/assets/js/popper.min.js' %}"></script>
+    <script src="{% static 'main/assets/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'main/assets/js/owl.js' %}"></script>
+    <script src="{% static 'main/assets/js/wow.js' %}"></script>
+    <script src="{% static 'main/assets/js/validation.js' %}"></script>
+    <script src="{% static 'main/assets/js/jquery.fancybox.js' %}"></script>
+    <script src="{% static 'main/assets/js/appear.js' %}"></script>
+    <script src="{% static 'main/assets/js/scrollbar.js' %}"></script>
+    <script src="{% static 'main/assets/js/tilt.jquery.js' %}"></script>
+    <script src="{% static 'main/assets/js/isotope.js' %}"></script>
+    <script src="{% static 'main/assets/js/bxslider.js' %}"></script>
+
+    <!-- main-js -->
+    <script src="{% static 'main/assets/js/script.js' %}"></script>
+
+</body><!-- End of .page_wrapper -->
+</html>

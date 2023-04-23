@@ -1,0 +1,56 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" 
+          rel="stylesheet" 
+          integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" 
+          crossorigin="anonymous">
+    <link rel="stylesheet" href={% static 'sideapp/css/navbar.css' %}>
+    <link rel="stylesheet" href={% static 'sideapp/css/carousel.css' %}>
+    <link rel="stylesheet" href={% static 'sideapp/css/trainers.css' %}>
+    <link rel="stylesheet" href={% static 'sideapp/css/footer.css' %}>
+    <link rel="icon" href={% static 'sideapp/img/favicon.ico' %}  type="image/x-icon" >
+
+
+
+    <title>Document</title>
+</head>
+<body>
+
+    {% include 'partials/_navbar.html' %}
+
+    <div class="container" id='trainers'>
+        <div class="row">
+            {% for trainer in trainers %}
+                {% if trainer.is_active %}
+                    {% include 'mainapp/partials/_trainers.html' %}
+                {% else %}
+                    <div class="container">
+                        <h1 id='error'>Burada Henüz Bir Şey Yok...</h1 >  
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
+    {% include 'partials/_footer.html' %}
+
+
+
+
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" 
+            integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" 
+            crossorigin="anonymous">
+    </script>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
+      defer
+    ></script>
+</body>
+</html>

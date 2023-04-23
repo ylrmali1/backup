@@ -1,0 +1,79 @@
+{% load static %}
+<!-- main-footer -->
+<footer class="main-footer footer-style-three">
+    <div class="footer-top-two">
+        <div class="pattern-layer">
+            <div class="pattern-1" style="background-image: url({% static 'main/assets/images/shape/shape-21.png' %});"></div>
+            <div class="pattern-2" style="background-image: url({% static 'main/assets/images/shape/shape-22.png' %});"></div>
+        </div>
+        <div class="auto-container" style="max-width: 1200px;">
+            <div class="row clearfix">
+                <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                    <div class="footer-widget logo-widget">
+                        <figure class="footer-logo">
+                            <a href="{% url 'main:index' %}">
+                                <span class="row align-items-center gap-3" style="margin-top: 20%">
+                                    <img src="{% static 'main/assets/images/brand.png' %}" alt="" style="width: 100%;max-width: 90px">
+                                    <span class="brand-text" style="color: white;font-size: 45px">tars<span style="color: #ff009c">i</span>er</span>
+                                </span>
+                            </a>
+                        </figure>
+                        <!-- social icons -->
+                        <ul class="social-links clearfix">
+                            <li><a href="//www.linkedin.com/company/tarsier-technology/"><i class="fab fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                    <div class="footer-widget links-widget ml-40">
+                        <div class="widget-title">
+                            <h3>Useful Links</h3>
+                        </div>
+                        <!-- footer links -->
+                        <div class="widget-content">
+                            <ul class="links-list clearfix">
+                                <li><a href="{% url 'main:index' %}">Home</a></li>
+                                <li><a href="{% url 'main:product' %}">Product</a></li>
+                                <li><a href="{% url 'main:blog' %}">Blog</a></li>
+                                <li><a href="{% url 'main:contact' %}">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                    <div class="footer-widget contact-widget">
+                        <div class="widget-title">
+                            <h3>Contact Us</h3>
+                        </div>
+                        <div class="widget-content">
+                            <ul class="info-list clearfix">
+                                <li>
+                                    <h4>Office Location</h4>
+                                    <p>Çamlaraltı Mah. Hüseyin Yılmaz Cd.No:67 B Blok G07 Pamukkale/DENİZLİ</p>
+                                </li>
+                                <li>
+                                    <h4>Email Address</h4>
+                                    <p><a href="mailto:info@tarsierteknoloji.com">info@tarsierteknoloji.com</a></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <!-- scroll to top -->
+        <button class="scroll-top style-one scroll-to-target" data-target="html">
+            <i class="fas fa-angle-up"></i>
+        </button>
+        <div class="auto-container">
+            <div class="bottom-inner clearfix">
+                <div class="copyright text-center">
+                    <p style="color: #cccccc"><span style="margin-right: 10px">&copy;2023</span>Tarsier</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- main-footer end -->
